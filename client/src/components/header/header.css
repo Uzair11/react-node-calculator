@@ -1,0 +1,11 @@
+.header {
+  height: 50px;
+  line-height: 50px;
+  width: 100%;
+  background: #c10708 0% 0% no-repeat padding-box;
+  opacity: 1;
+  letter-spacing: 0.54px;
+  color: #fff;
+  text-transform: uppercase;
+  text-align: center;
+}
